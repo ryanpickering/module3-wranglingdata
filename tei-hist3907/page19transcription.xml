@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>19</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+               <p>19</p>
+               <p>door of which was fastened. Peeing through the logs, <persname key="Fearon, ?" from="?" to="?" role="abolitionist">I</person> perceived the <persname key="?, ?" from="?" to="?" role="Bar-keeper">bar-keeper</person> of the <place key="Middletown, Kentucky" ref="http://tools.wmflabs.org/geohack/geohack.php?params=38_14_43_N_85_32_19_W">tavern</place>, together with a <persname key="?, ?" from="?" to="?" role="Colonel">stout man, more than six feet high, who was colonel --------</person>, and a <persname key="?, ?" from="?" to="?" role="slave">Negro boy about 14 years of age</person>, stript naked, receiving the lashes of these monsters who relieved each other in the use of a horse-whip; the <persname key="?, ?" from="?" to="?" role="slave">poor boy</person> fell down upon his knees several times, begging and praying that they would not kill him, and that he would do any thing they liked: this produced no cessation in their exercise. At length <persname key="Lawes, L." from="Mr. Lawes, the master of the <place key="Middletown, Kentucky" ref="http://tools.wmflabs.org/geohack/geohack.php?params=38_14_43_N_85_32_19_W">hotel</place> arrived, told the <persname key="?, ?" from="?" to="?" role="Colonel">valiant colonel<person> and his humane employer, the <persname key="?, ?" from="?" to="?" role="Bar-keeper">bar-keeper</person>, to desist and that <interp>the boy's refusal to cut wood was in obedience to his (Mr. L.'s) directions.</interp> Colonel -------- said, that <interp>'he did not know what the Niggar had done, but that the bar-keeper requested his assistance to whip Caesar; of course he lent him a hand, being no more than he should expect Mr. Lawes to do for him under similar circumstances.'</interp> At table Mr. Lawes said, that he had not been so vexed for seven years. This expression gave <persname key="Fearon, ?" from="?" to="?" role="abolitionist">me</person> please, and also afforded me, as I thought, an opportunity to reprobate the general system of slavery; but not one voice joined with mine: each gave vent in the following language to the superabundant quantity of the milk of human kindness, with which their breasts were overflowing:- </p>
+               <p>" <interp>'I guess <persname>he</person> deserved all he got.'</interp> </p>
+               <p>" <interp>'It would have been of small account if <persname key="?, ?" from="?" to="?" role="slave">the Niggar</person> had been whipt to death.<interp'</p>
+               <p>" <interp>'I always serve my Niggars that way: there is nothing else so good for them.'<interp></p>
+               <p>"It appeared that <persname key="?, ?" from="?" to="?" role="slave">this boy</person> was the property of <persname key="?, ?" from="?" to="?" role="slaver">a regular slave dealer</person>, who was then absent at <place key="Natchez, Mississippi" ref="http://tools.wmflabs.org/geohack/geohack.php?pagename=Natchez%2C_Mississippi&params=31_33_16_N_91_23_15_W_region:US_type:city">Natchez</place> with a cargo. Mr. Lawes' humanity fell lamentably in my estimation when he stated, <interp>'that whipping Niggars, if they were his own, was perfectly right,</interp> and they al- </p>
+               <p>c 2</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
